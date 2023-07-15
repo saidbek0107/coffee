@@ -1,0 +1,124 @@
+section-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .coffees {
+        flex-wrap: wrap;
+        display: flex;
+        text-align: center;
+        margin-left: 65px;
+        gap: 30px;
+        margin-top: 378px;
+
+    }
+
+    .kopi1_title {
+        margin-top: 71.55px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .kopi1_text {
+        margin-top: 24px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .kopi2_title {
+        margin-top: 71.55px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .kopi2_text {
+        margin-top: 24px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .kopi3_title {
+        margin-top: 71.55px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .kopi3_text {
+        margin-top: 24px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .kopi4_title {
+        margin-top: 71.55px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .kopi4_text {
+        margin-top: 24px;
+        width: 255px;
+        color: #333D4B;
+        text-align: center;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .danche {
+        margin-top: 15px;
+        margin-left: 30px;
+    }
+}

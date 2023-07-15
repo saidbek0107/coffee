@@ -1,0 +1,187 @@
+main-wrapper{
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .how {
+        margin-left: 90px;
+        margin-top: 200px;
+        display: flex;
+        width: 255px;
+        flex-direction: column;
+        color: #83888F;
+        font-size: 24px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+    
+    .oval {
+        width: 31px;
+        height: 31px;
+        border-radius: 31px;
+        border: 2px solid #0E8784;
+        background: #FEFCF7;
+    }
+    
+    .ovals {
+        margin-left: 90px;
+        gap: 349px;
+        display: flex;
+        margin-top: 95px;
+    }
+    
+    
+    .number {
+        margin-top: 67px;
+        color: #FDD6BA;
+        font-size: 72px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 72px;
+    }
+    
+    
+    .title {
+        margin-top: 38px;
+        display: flex;
+        width: 255px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 32px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+    
+    .text {
+        margin-top: 42px;
+        display: flex;
+        width: 285px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 16px;
+        font-family: Barlow;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    
+    .number2 {
+        margin-top: 67px;
+        color: #FDD6BA;
+        font-size: 72px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 72px;
+    }
+    
+    .title2 {
+        margin-top: 38px;
+        display: flex;
+        width: 255px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 32px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+    
+    .text2 {
+        margin-top: 42px;
+        display: flex;
+        width: 285px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 16px;
+        font-family: Barlow;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    
+    .number3 {
+        margin-top: 67px;
+        color: #FDD6BA;
+        font-size: 72px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 72px;
+    }
+    
+    .title3 {
+        margin-top: 38px;
+        display: flex;
+        width: 255px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 32px;
+        font-family: 'Fraunces', serif;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+    
+    .text3 {
+        margin-top: 42px;
+        display: flex;
+        width: 285px;
+        flex-direction: column;
+        flex-shrink: 0;
+        color: #333D4B;
+        font-size: 16px;
+        font-family: Barlow;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    
+    .magazine {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 90px;
+        gap: 95px;
+    }
+    
+    .hero_btn2 {
+        width: 217px;
+        height: 56px;
+        border-radius: 6px;
+        background: #0E8784;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 18px;
+        font-family: Fraunces 9pt;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 25px;
+        border: none;
+        margin-top: -2rem;
+    }
+    
+    .hero_btn2:hover {
+        width: 217px;
+        height: 56px;
+        background: #1087f0;
+    }
+}
